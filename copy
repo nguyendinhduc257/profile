@@ -1,0 +1,10 @@
+<h2 class="mb-5">Experience</h2>
+            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div class="flex-grow-1">
+                    <h3 class="mb-0"></h3>
+                    <div class="subheading mb-3">Intelitec Solutions</div>
+                    <p>I am the leader of group 7, programming engineering, 
+                      web programming, discrete math and advanced math</p>
+                </div>
+                <div class="flex-shrink-0"><span class="text-primary">September 2021 - Present</span></div> {% endcomment %}
+            </div>
